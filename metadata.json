@@ -1,0 +1,6 @@
+{
+  "name": "PlaySportsPools - Real Money Sports Pools & Pick'Em",
+  "description": "Win real money with daily and weekly sports pools. Play Pick'Em pools, NFL Survivor, College Football, Soccer, and NCAAB with live leaderboards and weekly sweepstakes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
